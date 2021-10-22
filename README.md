@@ -1,3 +1,3 @@
 # PYTHON_KVM
-for traning programming python 
+#for traning programming python 
 #KVM
